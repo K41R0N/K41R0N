@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/kairon.xyz-000?style=flat-square)](https://kairon.xyz)
 [![Substack](https://img.shields.io/badge/Device_Economies-FF6719?style=flat-square&logo=substack&logoColor=white)](https://k41r0n.substack.com)
+[![Instagram](https://img.shields.io/badge/device.economies-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/device.economies/)
 [![X](https://img.shields.io/badge/@k41r0n-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/k41r0n)
 
 **Creative Technologist. Martech by day.**

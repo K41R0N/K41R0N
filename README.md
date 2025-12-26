@@ -24,7 +24,7 @@ I care about craftsmanship. I don't like buzzwords.
 
 - [Techno-Feudalistic Quixote](https://k41r0n.substack.com/p/techno-feudalistic-quixotes)
 - [A Graveyard of Protocols](https://kairon.mirror.xyz/iXi6MhO9ggbW4L-jUciGemLNAl3MoEeVEB8K_IrDOjU)
-- [Anti-Tech)](https://k41r0n.substack.com/p/antitech)
+- [Anti-Tech](https://k41r0n.substack.com/p/antitech)
 - [Whole Earth Theory](https://kairon.mirror.xyz/NecN36PnnXcrY5Hw0mst5Ip0RdTFMG2PGEFaxeFyJSY)
 - [The Future Belongs to the Storytellers](https://k41r0n.substack.com/p/the-future-belongs-to-the-storytellers)
 
